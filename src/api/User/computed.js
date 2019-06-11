@@ -31,4 +31,4 @@ export default {
             return user.id === parentId;
         }
     }
-}
+};
