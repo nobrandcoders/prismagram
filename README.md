@@ -2,10 +2,10 @@
 
 Instagram clone with Express + Prisma + React and React Native
 
-# How to deploy
-- yarn deploy
-# Endpoint(Server)
-- prisma.yml
+1. How to deploy - yarn deploy
+2. Endpoint(Server) - prisma.yml
+3. How to run server - yarn dev
+4. How to deploy & generate - yarn prisma
 
 ## User Stories
 
